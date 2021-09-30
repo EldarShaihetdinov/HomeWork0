@@ -6,7 +6,7 @@ public class Application {
         Owner owner0 = new Owner("Лупа","Пупкин",11);
         house0.setOwner(owner0);
         System.out.println(house0.getOwner());
-        System.out.println();
+
 
     }
 
